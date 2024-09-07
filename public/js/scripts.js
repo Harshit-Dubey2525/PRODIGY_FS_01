@@ -1,0 +1,1 @@
+// Basic client-side validation or enhancements can be added here.
